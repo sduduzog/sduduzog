@@ -1,5 +1,5 @@
-### Hi there 👋
-i really don't know what to put here yet so just go to [sduu.dev](https://sduu.dev) instead.
+# Beautus Sduduzo Gumede
+## Software Engineer at @codeo-za
 <!--
 **sduduzog/sduduzog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
