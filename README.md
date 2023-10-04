@@ -1,5 +1,5 @@
-# Beautus Sduduzo Gumede
-## Software Engineer at [@codeo-za](https://github.com/codeo-za)
+# Sdu
+> Software Engineer at [@codeo-za](https://github.com/codeo-za)
 <!--
 **sduduzog/sduduzog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
