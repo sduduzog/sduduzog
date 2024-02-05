@@ -1,5 +1,5 @@
 # Sdu
-> Software Engineer at [@codeo-za](https://github.com/codeo-za)
+> Consultant at [Daemon](https://www.dae.mn/)
 <!--
 **sduduzog/sduduzog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
